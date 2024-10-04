@@ -1,9 +1,11 @@
-
 O que é real?
+
 📒 Descrição
+
 Criação da foto de uma pessoa o mais realista possível.
 
 🤖 Tecnologias Utilizadas
+
 Ferramente de instalação local StableDiffusion
 
 Parâmetros:
