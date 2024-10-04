@@ -20,7 +20,11 @@ Denoising strength: 0.7
 Version: v1.10.1
 
 🚀 Resultados
+<br>
+![Photo](grid.png)
+<hr>
 ![Photo](Gen.png)
+<br>
 
 💭 Reflexão
 Modelos atuais conseguem gerar imagens fotorealistas impressionantes!
