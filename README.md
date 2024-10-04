@@ -1,3 +1,45 @@
+
+O que é real?
+📒 Descrição
+Criação da foto de uma pessoa o mais realista possível.
+
+🤖 Tecnologias Utilizadas
+Ferramente de instalação local StableDiffusion
+
+Prompt: Photo of a beatiful woman
+Steps: 60
+Sampler: DPM++ 2M SDE Heun, Schedule type: Karras
+CFG scale: 3
+Seed: 2078360098
+Size: 512x512
+Model: epicrealism_pureEvolutionV5
+
+Upscaler: 8x_NMKD-Superscale_150000_G
+Size: 512x512 -> 1024x1024
+Denoising strength: 0.7
+Version: v1.10.1
+
+🚀 Resultados
+![Photo](Gen.png)
+
+💭 Reflexão
+Modelos atuais conseguem gerar imagens fotorealistas impressionantes!
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<hr>
+<br><br>
+*Readme original do projeto*
+
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
