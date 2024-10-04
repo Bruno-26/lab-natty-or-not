@@ -6,6 +6,8 @@ Criação da foto de uma pessoa o mais realista possível.
 🤖 Tecnologias Utilizadas
 Ferramente de instalação local StableDiffusion
 
+Parâmetros:
+```
 Prompt: Photo of a beatiful woman
 Steps: 60
 Sampler: DPM++ 2M SDE Heun, Schedule type: Karras
@@ -18,6 +20,7 @@ Upscaler: 8x_NMKD-Superscale_150000_G
 Size: 512x512 -> 1024x1024
 Denoising strength: 0.7
 Version: v1.10.1
+```
 
 🚀 Resultados
 <br>
