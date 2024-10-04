@@ -26,9 +26,13 @@ Version: v1.10.1
 
 🚀 Resultados
 <br>
+
 ![Photo](grid.png)
+
 <hr>
-![Photo](Gen.png)
+
+![Photo2](Gen.png)
+
 <br>
 
 💭 Reflexão
